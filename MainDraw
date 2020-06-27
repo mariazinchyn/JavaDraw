@@ -1,0 +1,11 @@
+import javax.swing.JFrame;
+
+public class MainDraw {
+
+	public static void main(String[] args) {
+		
+SimpleDraw s = new SimpleDraw();
+s.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	}
+
+}
